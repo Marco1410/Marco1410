@@ -1,4 +1,11 @@
 ## Hi there 👋
+# Welcome to my GitHub!
+
+I'm Marco, an Aeronautical Engineer and PhD Candidate at the [KratosMultiphysics](https://kratosmultiphysics.github.io/Kratos/) Group (CIMNE & UPC BarcelonaTech). My research focuses on computational aerodynamics, reduced-order modelling (ROM), scientific computing, and aerodynamic shape optimization (ASO) for aerospace applications. I develop fast and reliable numerical methods for nonlinear PDE-based problems, particularly transonic aerodynamic flows, combining CFD, reduced-order modelling, optimization techniques, and scientific machine learning.
+
+My current work includes nonlinear and hyper-reduced ROMs, parametric and adaptive modelling techniques, aerodynamic optimization, and physics-aware ML methods for scientific computing. My developments are based on the [KratosMultiphysics](https://kratosmultiphysics.github.io/Kratos/) framework, with a strong focus on scalable and industrially applicable computational methods for engineering simulations.
+
+More broadly, I am interested in CFD, computational mechanics, numerical methods for PDEs, high-performance scientific computing, and open-source engineering software. Here you will find repositories related to ROMs, CFD workflows, optimization frameworks, scientific ML, and aerospace engineering research projects.
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-zuniga) 
 
